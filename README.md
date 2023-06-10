@@ -10,7 +10,8 @@ Dear,
 * 1200 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 100 And Total Concurrent API requested: 7200.
 * 1400 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 74 And Total Concurrent API requested: 8400.
 * 1600 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 73 And Total Concurrent API requested: 9600.
- ```diff````
+
+While executed 1600 concurrent request, found 1090 request got connection timeout and error rate is 11.35%.
 
 
 
