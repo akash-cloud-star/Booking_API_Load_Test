@@ -13,13 +13,7 @@ Dear,
 
 While executed 1600 concurrent request, found 1090 request got connection timeout and error rate is 11.35%.
 
+Summary: Server can handle almost concurrent 1500 API call with almost zero (0) error rate.Please find the details report from the attachment and let me know if you have any further queries.
 
+# Report Image:
 
-
-
-
-# Newman Report
-
-![Screenshot 2023-05-31 171318](https://github.com/akash-cloud-star/Booking_System_Rest_API/assets/61002722/91d39135-a620-427f-9827-682678216fba)
-![Screenshot 2023-05-31 171342](https://github.com/akash-cloud-star/Booking_System_Rest_API/assets/61002722/8def37fa-34ed-4323-985d-e0be6ec3437b)
-![Screenshot 2023-05-31 171406](https://github.com/akash-cloud-star/Booking_System_Rest_API/assets/61002722/c21a7d2e-aaee-409f-a4dd-e39efda68912)
