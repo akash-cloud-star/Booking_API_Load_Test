@@ -16,4 +16,7 @@ While executed 1600 concurrent request, found 1090 request got connection timeou
 Summary: Server can handle almost concurrent 1500 API call with almost zero (0) error rate.Please find the details report from the attachment and let me know if you have any further queries.
 
 # Report Image:
+![Screenshot 2023-06-10 211743](https://github.com/akash-cloud-star/Booking_API_Load_Test/assets/61002722/8c51b0b4-382a-4957-a4e8-e1de5412ca4d)
+![Screenshot 2023-06-10 211805](https://github.com/akash-cloud-star/Booking_API_Load_Test/assets/61002722/86c3e049-073b-4855-9a13-158188540dd2)
+
 
