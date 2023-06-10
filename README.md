@@ -10,13 +10,9 @@ Dear,
 * 1200 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 100 And Total Concurrent API requested: 7200.
 * 1400 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 74 And Total Concurrent API requested: 8400.
 * 1600 Concurrent Request with 10 Loop Count; Avg TPS for Total Samples is ~ 73 And Total Concurrent API requested: 9600.
-### 🖥 Run by Newman
-* Clone this repository.
-* Open cmd to the file location.
-* Run Command:
-console
-newman run First.postman_collection.json -e Batchit.postman_environment.json
-* Run Command for Report:
+``` error 
+ferhfkekjer
+```
 
 
 
